@@ -56,13 +56,6 @@ python gui_port_scanner.py
 
 > Only scan IP addresses or domains that you **own** or have **explicit permission** to scan. Unauthorized port scanning is illegal and may violate cybersecurity laws.
 
----
-
-## 🖼️ Screenshots (Optional)
-
-> Add screenshots of your GUI and generated PDF here if you like.
-
----
 
 ## 👤 Author
 
@@ -77,14 +70,6 @@ This project is licensed under the **MIT License** – feel free to use, modify,
 
 ---
 
-
----
-
-### ✅ Bonus Tip
-
-Also create a `requirements.txt` file with:
-
-```
 
 fpdf
 
