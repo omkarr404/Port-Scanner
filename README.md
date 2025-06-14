@@ -1,8 +1,4 @@
-Here’s a complete and professional `README.md` file for your **Port Scanner GUI** project, ready to upload to GitHub:
 
----
-
-````markdown
 # 🛡️ Port Scanner GUI
 
 A user-friendly Python-based **Port Scanner** with a graphical interface built using Tkinter. This tool allows users to scan custom port ranges on any IP or domain, view results in real time, and generate a **PDF report** of open ports.
@@ -62,9 +58,6 @@ python gui_port_scanner.py
 
 ---
 
-## 🖼️ Screenshots (Optional)
-
-> Add screenshots of your GUI and generated PDF here if you like.
 
 ---
 
